@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { FaPlus, FaSearch } from 'react-icons/fa';
 import axios from 'axios';
 import Header from '../../../layout/header/Header';
-import style from './ParametrType.module.css';
+import style from './parametrType.module.css';
 import ComponentsUpdate from '../../categoryComonents/componentsUpdate/ComponentsUpdate';
 import { useNavigate } from 'react-router';
 const ParametrType = () => {
