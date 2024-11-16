@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { FaPlus, FaSearch } from 'react-icons/fa';
 import { FaPenFancy, FaTrash } from 'react-icons/fa6';
 import Header from '../../../layout/header/Header';
-import style from './Parametrs.module.css';
+import style from './parametrs.module.css';
 import { FaMask } from 'react-icons/fa6';
 import { useNavigate } from 'react-router';
 import ParametrBarModal from '../../../layout/parametrBar/ParametrBarModal';
